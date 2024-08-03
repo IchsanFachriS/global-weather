@@ -1,5 +1,3 @@
-# ichsan-fachri-siroj_last-project-gdsc
-
 Nama = Ichsan Fachri Siroj 
 GDSC ID = 220010114 
 Institut Teknologi Bandung
